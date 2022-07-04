@@ -1,0 +1,29 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+#smartwizard{
+	/*max-height: 300px;*/
+	margin: 0 auto;
+	/*margin-left: 0;*/
+	/*margin-right: 0;*/
+	margin-top: 100px;
+	margin-bottom: auto;
+	max-width: 900px;
+
+}
+.smartwizard-heading{
+	font-size: 35px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.email-form{
+	/*max-width: 200px;*/
+}
+
+@media (max-width: 767px){
+	#smartwizard{
+		margin-top: 10px;
+	}
+}

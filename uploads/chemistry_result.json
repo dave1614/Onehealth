@@ -1,0 +1,202 @@
+[
+   {
+      "Sample No.":"1",
+      "Cre Biobase":"0.802",
+      "AST BIOBASE":"35.8",
+      "ALT BIOBASE":"39.9",
+      "ALP BIOBASE":"107.75",
+      "HDL Biobase":"42.518",
+      "Glu Biobase":"144.573",
+      "CHO-BIO":"119.965",
+      "PHOS-BIOBASE":"4.822",
+      "T-Bil-Biobase":"1.23",
+      "UREA":"35.394",
+      "D-Bil-Biobase":"0.5",
+      "TG":"82.394",
+      "TP":"4.622",
+      "ALB-Biobase":"2.96",
+      "UA":"4.356",
+      "Mg":"1.916"
+   },
+   {
+      "Sample No.":"2",
+      "CHO-BIO":"99.583",
+      "TG":"84.998",
+      "ALB-Biobase":"2.258"
+   },
+   {
+      "Sample No.":"3",
+      "Cre Biobase":"1.057",
+      "Glu Biobase":"93.78",
+      "CHO-BIO":"148.57",
+      "T-Bil-Biobase":"1.422",
+      "TG":"86.113"
+   },
+   {
+      "Sample No.":"4",
+      "TG":"123.307",
+      "ALB-Biobase":"3.073"
+   },
+   {
+      "Sample No.":"5",
+      "Glu Biobase":"89.526"
+   },
+   {
+      "Sample No.":"6",
+      "Glu Biobase":"120.469"
+   },
+   {
+      "Sample No.":"7",
+      "Glu Biobase":"93.35"
+   },
+   {
+      "Sample No.":"8",
+      "Glu Biobase":"110.164"
+   },
+   {
+      "Sample No.":"9",
+      "Glu Biobase":"99.075"
+   },
+   {
+      "Sample No.":"10",
+      "Glu Biobase":"105.546"
+   },
+   {
+      "Sample No.":"11",
+      "Glu Biobase":"96.502"
+   },
+   {
+      "Sample No.":"12",
+      "Cre Biobase":"1.109",
+      "AST BIOBASE":"38.7",
+      "ALT BIOBASE":"39.8",
+      "ALP BIOBASE":"51.44",
+      "HDL Biobase":"59.129",
+      "CHO-BIO":"155.868",
+      "T-Bil-Biobase":"0.879",
+      "UREA":"20.986",
+      "D-Bil-Biobase":"0.2",
+      "TG":"38.023",
+      "TP":"6.599",
+      "ALB-Biobase":"4.11",
+      "UA":"3.815"
+   },
+   {
+      "Sample No.":"13",
+      "HDL Biobase":"49.234",
+      "CHO-BIO":"176.928",
+      "TG":"167.419"
+   },
+   {
+      "Sample No.":"14",
+      "HDL Biobase":"50.707",
+      "CHO-BIO":"165.135",
+      "TG":"183.075"
+   },
+   {
+      "Sample No.":"15",
+      "HDL Biobase":"43.389",
+      "CHO-BIO":"178.475",
+      "TG":"115.905"
+   },
+   {
+      "Sample No.":"16",
+      "HDL Biobase":"83.832",
+      "CHO-BIO":"228.369",
+      "TG":"47.868"
+   },
+   {
+      "Sample No.":"17",
+      "HDL Biobase":"63.528",
+      "CHO-BIO":"210.077",
+      "TG":"89.263"
+   },
+   {
+      "Sample No.":"18",
+      "UA":"6.78"
+   },
+   {
+      "Sample No.":"19",
+      "HDL Biobase":"58.341",
+      "CHO-BIO":"105.465",
+      "TG":"74.085"
+   },
+   {
+      "Sample No.":"20",
+      "HDL Biobase":"62.839",
+      "CHO-BIO":"234.816",
+      "TG":"96.058"
+   },
+   {
+      "Sample No.":"21",
+      "Cre Biobase":"0.718",
+      "AST BIOBASE":"23.4",
+      "ALT BIOBASE":"29.5",
+      "ALP BIOBASE":"58.23",
+      "HDL Biobase":"72.127",
+      "CHO-BIO":"183.864",
+      "T-Bil-Biobase":"0.031",
+      "UREA":"18.532",
+      "D-Bil-Biobase":"0",
+      "TG":"55.751",
+      "TP":"6.626",
+      "ALB-Biobase":"4.043",
+      "UA":"9.833"
+   },
+   {
+      "Sample No.":"22",
+      "Cre Biobase":"1.03",
+      "AST BIOBASE":"21",
+      "ALT BIOBASE":"25.9",
+      "ALP BIOBASE":"50.94",
+      "HDL Biobase":"50.566",
+      "CHO-BIO":"107.225",
+      "T-Bil-Biobase":"0.131",
+      "UREA":"17.55",
+      "D-Bil-Biobase":"0.2",
+      "TG":"53.434",
+      "TP":"5.804",
+      "ALB-Biobase":"4.027",
+      "UA":"6.59"
+   },
+   {
+      "Sample No.":"23",
+      "HDL Biobase":"46.352",
+      "CHO-BIO":"151.928",
+      "TG":"67.613"
+   },
+   {
+      "Sample No.":"24",
+      "Cre Biobase":"1.188",
+      "AST BIOBASE":"27.1",
+      "ALT BIOBASE":"26.3",
+      "ALP BIOBASE":"91.82",
+      "T-Bil-Biobase":"0.501",
+      "UREA":"24.426",
+      "D-Bil-Biobase":"0.2",
+      "TP":"7.418",
+      "ALB-Biobase":"4.038"
+   },
+   {
+      "Sample No.":"25",
+      "AST BIOBASE":"14.4",
+      "ALT BIOBASE":"25.5",
+      "ALP BIOBASE":"40.4",
+      "T-Bil-Biobase":"0.354",
+      "D-Bil-Biobase":"0",
+      "TP":"6.588",
+      "ALB-Biobase":"4.5"
+   },
+   {
+      "Sample No.":"26",
+      "Cre Biobase":"1.591",
+      "AST BIOBASE":"27.5",
+      "ALT BIOBASE":"24.5",
+      "ALP BIOBASE":"35.9",
+      "T-Bil-Biobase":"0.055",
+      "UREA":"35.664",
+      "D-Bil-Biobase":"0",
+      "TP":"7.156",
+      "ALB-Biobase":"4.22"
+   }
+]

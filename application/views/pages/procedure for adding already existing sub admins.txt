@@ -1,0 +1,2 @@
+1. Click The Button
+2.get a list of registered users from all health facilities both patient and admin excluding personnel under this sub dept.
